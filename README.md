@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Gaikwad</h1>
 <h3 align="center">Computer Engineering student with a keen interest in coding, problem-solving.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/cartoon-programmer">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/EJV9wX_kHlmv6x7RoyLj1IC55U3xeNWHaL4M-mCA8MM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb2RpbmctY29t/cHV0ZXItZGVzay1i/b3ktc2Nob29sLWJv/eV85NTgyNjMtNjku/anBn">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagikw&label=Profile%20views&color=0e75b6&style=flat" alt="adityagikw" /> </p>
 
