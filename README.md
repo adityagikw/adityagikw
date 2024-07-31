@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Gaikwad</h1>
 <h3 align="center">Computer Engineering student with a keen interest in coding, problem-solving.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/coding">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/cartoon-programmer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagikw&label=Profile%20views&color=0e75b6&style=flat" alt="adityagikw" /> </p>
 
