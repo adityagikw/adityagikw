@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **adityagikw@gmail.com**
 
-- 📄 Know about my experiences [Currently pursuing bachelor's degree from Pune university.](Currently pursuing bachelor's degree from Pune university.)
+- 📄 Know about my experiences Currently pursuing bachelor's degree from Pune university.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
